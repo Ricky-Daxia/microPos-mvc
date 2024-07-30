@@ -1,0 +1,6 @@
+.vscode/
+aw03-Ricky-Daxia/
+.idea/
+/target/
+
+**/application.properties
